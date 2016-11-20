@@ -1,3 +1,10 @@
+########################################################
+#Stack Overflow question:
+#http://stackoverflow.com/questions/40700126/manipulation-of-data-in-r-using-data-table-or-dplyr-with-groupby-and-subsetting
+#
+#
+#
+#########################################################
 
 #initialize the output frame
 outputFrame = as.data.frame(matrix(nrow = length(unique(train$Name)),
